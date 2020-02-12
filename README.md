@@ -1,2 +1,6 @@
 # Practice-Games
-Games done during university years
+I did these games on my first semester of University.
+
+Made it public for others to practice.
+
+Open to suggestions.
